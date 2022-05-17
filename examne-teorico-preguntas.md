@@ -84,7 +84,7 @@ Las HTML son caraceteres no comunes que deben presentarse con un código hexadec
 Su objetivo es lograr una representación más sencilla de los caracteres que no se incluyen en el alfabeto inglés (por ejemplo, nuestra ñ), sin necesidad de recurrir al código hexadecimal. 
 Los strings de las HTML comienzan por un & y finalizan con ;. Estas entidades nos ayudan a conocer mejor todos los lenguajes informáticos que existen, pues nos revela caracteres que en estos lenguajes están reservados. 
 
-###  Dado el significado que tienen las comillas para el comando echo, ¿cómo harías para que devolviera una frase como: La Justicia europea considera "discriminatorio" el sistema de financiación del bono social de las eléctricas (Fuente: [Eldiario.es](https://www.eldiario.es/economia/justicia-europea-considera-discriminatorio-sistema-fi nanciacion-bono-social-electricas_1_8394400.html)?
+###  Dado el significado que tienen las comillas para el comando echo, ¿cómo harías para que devolviera una frase como: La Justicia europea considera "discriminatorio" el sistema de financiación del bono social de las eléctricas (Fuente: [Eldiario.es](https://www.eldiario.es/economia/justicia-europea-considera-discriminatorio-sistema-financiacion-bono-social-electricas_1_8394400.html)?
 El comando `echo` se ejecuta para la impresión en pantalla. Lo utilizamos con datos string (cadena de caracteres). 
 Si utilizamos entrecomillado simple (‘string’), delimitamos la línea de caracteres. En el caso de usar el doble entrecomillado, conseguiremos expandir los nombres de la variable.
 
